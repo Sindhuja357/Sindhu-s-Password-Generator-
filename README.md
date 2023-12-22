@@ -16,7 +16,7 @@ This project is a console-based password generator that allows users to generate
 ## How to Use
 
 1. Clone the repository
-   
+
 2. Compile and run the program:
 
 g++ password_generator.cpp -o password_generator
